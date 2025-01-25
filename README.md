@@ -8,17 +8,15 @@ The goal of this dashboard is to provide actionable insights to improve hotel op
 
 ## Dashboard Preview
 This dashboard is available as a **PDF file** showcasing key insights, including:
-
-Booking Trends and Customer Demographics: Insights into reservation patterns, lead times, and market segment performance.
-Cancellation Analysis and Special Requests: Detailed breakdown of cancellations and the impact of special requests on booking outcomes.
-Operational Metrics: Evaluations of room type preferences, parking requirements, and stay patterns (weekend vs. weekday).
+- **Booking Trends and Customer Demographics**: Insights into reservation patterns, lead times, and market segment performance.
+- **Cancellation Analysis and Special Requests**: Detailed breakdown of cancellations and the impact of special requests on booking outcomes.
+- **Operational Metrics**: Evaluations of room type preferences, parking requirements, and stay patterns (weekend vs. weekday).
 
 ### Screenshots
 Here are some screenshots of the dashboard:
-
-Overview Page:
-Cancellations Page:
-Operational Insights Page
+- **Overview Page**: 
+- **Cancellations Page**: 
+- **Operational Insights Page**: 
 
 ---
 
