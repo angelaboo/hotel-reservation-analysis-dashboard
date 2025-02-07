@@ -6,7 +6,7 @@ This project showcases a **Power BI dashboard** built to analyze hotel reservati
 
 The analysis uncovers valuable insights into booking trends, cancellations, and operational metrics, enabling data-driven decision-making in the hospitality industry.
 
----
+<br>
 
 ## **Power BI Dashboard Preview**
 The dashboard provides comprehensive insights across the following pages:
@@ -19,7 +19,7 @@ The dashboard provides comprehensive insights across the following pages:
 3. **Operational Insights Page**: Highlights guest preferences for room types, meal plans, and parking utilization.  
    ![Operational Insights Page](https://github.com/angelaboo/hotel-reservation-analysis-dashboard/blob/c62cbcae66b0f54499df51d57d4c744cd875a9f6/dashboard/03_operations_page.jpg)
 
----
+<br>
 
 ## **Dataset Details**
 - **Source**: Kaggle ([Hotel.csv](https://www.kaggle.com/datasets/ahmedwaelnasef/hotel-booking/data)).
@@ -31,7 +31,7 @@ The dashboard provides comprehensive insights across the following pages:
   - `special_requests`: Number of special requests made by customers.
   - `repeated_guest`: Specifies whether the guest is a returning customer (1) or new (0).
 
----
+<br>
 
 ## **Conclusion**
 This dashboard provides actionable insights to:
@@ -41,7 +41,7 @@ This dashboard provides actionable insights to:
 
 By leveraging these insights, Platinum Oasis can enhance operational efficiency, improve guest satisfaction, and drive sustainable growth. These findings form the foundation for actionable strategies that align with the hotel’s goals.
 
----
+<br>
 
 ## **Explore the Project**
 - **PowerPoint Presentation**: [View Presentation](https://github.com/angelaboo/hotel-reservation-analysis-dashboard/blob/main/Hotel%20Reservation%20Analysis.pdf)  
@@ -51,7 +51,7 @@ By leveraging these insights, Platinum Oasis can enhance operational efficiency,
 - **GitHub Repository**: [View Repository](https://github.com/angelaboo/hotel-reservation-analysis-dashboard)  
   Access the full repository for this project.
 
----
+<br>
 
 ## **Author**
 **Angela Boo**  
