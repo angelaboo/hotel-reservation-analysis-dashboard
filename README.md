@@ -8,7 +8,7 @@ The analysis uncovers valuable insights into booking trends, cancellations, and 
 
 <br>
 
-## **Power BI Dashboard Preview**
+## **Power BI Dashboard Snapshots**
 The dashboard provides comprehensive insights across the following pages:
 1. **Overview Page**: Displays key metrics such as total bookings, lead times, and monthly trends.  
    ![Overview Page](https://github.com/angelaboo/hotel-reservation-analysis-dashboard/blob/c62cbcae66b0f54499df51d57d4c744cd875a9f6/dashboard/01_overview_page.jpg)
